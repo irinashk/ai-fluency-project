@@ -20,4 +20,4 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- W02 · ChatGPT (GPT-6) · Used for: brainstorming project ideas and drafting the proposal · Checked by: reviewing the ideas, questioning their feasibility, and revising the proposal myself
